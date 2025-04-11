@@ -2,7 +2,6 @@
 authors = ["Adeoye Adefemi Opeoluwa"]
 description = "Production ready Authentication Server boilerplate for Node.js/Typescript and SQL tool chain "
 language = "en"
-multilingual = false
 src = "src"
 title = "Molybdenum"
 
